@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="5a363945557e42d28e3b2aa47cadb347" Name="Diagram1">
+        <EntityTypeShape EntityType="PartyBuddiesModel.Notification" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="PartyBuddiesModel.NotificationType" Width="1.5" PointX="2.75" PointY="0.75" />
+        <EntityTypeShape EntityType="PartyBuddiesModel.Otp" Width="1.5" PointX="2.75" PointY="3.75" />
+        <EntityTypeShape EntityType="PartyBuddiesModel.Party" Width="1.5" PointX="4.75" PointY="0.75" />
+        <EntityTypeShape EntityType="PartyBuddiesModel.PartyPreferences" Width="1.5" PointX="4.75" PointY="5.75" />
+        <EntityTypeShape EntityType="PartyBuddiesModel.Request" Width="1.5" PointX="6.75" PointY="0.75" />
+        <EntityTypeShape EntityType="PartyBuddiesModel.UserImage" Width="1.5" PointX="0.75" PointY="6.75" />
+        <EntityTypeShape EntityType="PartyBuddiesModel.UserMessage" Width="1.5" PointX="6.75" PointY="3.75" />
+        <EntityTypeShape EntityType="PartyBuddiesModel.UserProfile" Width="1.5" PointX="6.75" PointY="6.75" />
+        <EntityTypeShape EntityType="PartyBuddiesModel.UserSwipe" Width="1.5" PointX="8.75" PointY="0.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
